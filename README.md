@@ -1,4 +1,3 @@
-# Hotel-reservation-PowerBI-Analytics
 # Hotel Reservation Operations Analytics | Power BI
 
 ## Project Overview
