@@ -1,5 +1,4 @@
 # Hotel Reservation Operations Analytics | Power BI
-An interactive dashboard project analyzing booking demand, guest behaviour, stay performance, staff & room utilization, and booking-related issues.
 ## Project Overview
 
 An interactive Power BI project developed to analyze hotel reservation
